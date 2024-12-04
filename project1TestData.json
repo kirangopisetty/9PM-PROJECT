@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Bollywood",
+    "gender": "male",
+    "email": "bolly@movies.com",
+    "status": "active",
+    "userID": 7530775,
+    "updatedName": "Lawyer Pooja",
+    "updatedEmail": "pooja@lawyer.com",
+    "updatedStatus": "active",
+    "idToDelete": 7530837
+  },
+  {
+    "name": "Tollywood",
+    "gender": "female",
+    "email": "tolly@movies.com",
+    "status": "inactive",
+    "userID": 7530842,
+    "updatedName": "Lawyer SAC",
+    "updatedEmail": "sac@lawyer.com",
+    "updatedStatus": "inactive",
+    "idToDelete": 7535893
+  },
+  {
+    "name": "Hollywood",
+    "gender": "male",
+    "email": "holly@movies.com",
+    "status": "active",
+    "userID": 7530839,
+    "updatedName": "Lawyer SK",
+    "updatedEmail": "sk@lawyer.com",
+    "updatedStatus": "inactive",
+    "idToDelete": 7535892
+  },
+  {
+    "name": "Kollywood",
+    "gender": "female",
+    "email": "kolly@movies.com",
+    "status": "inactive",
+    "userID": 7530772,
+    "updatedName": "Lawyer Kiran",
+    "updatedEmail": "kiran@lawyer.com",
+    "updatedStatus": "active",
+    "idToDelete": 7530839
+  },
+  {
+    "name": "Sandalwood",
+    "gender": "female",
+    "email": "sandal@movies.com",
+    "status": "active",
+    "userID": 7530837,
+    "updatedName": "Lawyer Isha",
+    "updatedEmail": "isha@lawyer.com",
+    "updatedStatus": "inactive",
+    "idToDelete": 7535891
+  }
+]
